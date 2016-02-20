@@ -14,6 +14,12 @@ $ git clone git@github.com:fughz/AdFragmentTemplate.git AdFragment
 
 ## Usage
 
+select AdFragment from Fragment category.
+![](https://raw.githubusercontent.com/fughz/AdFragmentTemplate/master/screenshot/01.png)
+
+set Fragment name.
+![](https://raw.githubusercontent.com/fughz/AdFragmentTemplate/master/screenshot/02.png)
+
 set your adsens id to res/values/ad_config.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -38,6 +44,10 @@ write this code in your Activity layout file.
         android:layout_marginTop="10dp"
         tools:layout="@layout/fragment_ad" />
 ```
+
+display adsens banner in your Activity.
+![](https://raw.githubusercontent.com/fughz/AdFragmentTemplate/master/screenshot/03.png)
+
 
 ## Contributing
 
