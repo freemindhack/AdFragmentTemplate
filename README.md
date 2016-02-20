@@ -46,6 +46,7 @@ write this code in your Activity layout file.
 ```
 
 display adsens banner in your Activity.
+
 ![](https://raw.githubusercontent.com/fughz/AdFragmentTemplate/master/screenshot/03.png)
 
 
